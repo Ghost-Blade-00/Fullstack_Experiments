@@ -1,0 +1,35 @@
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+.light-page {
+  background-color: #f2f2f2;
+  color: #000000;
+}
+.dark-page {
+  background-color: #121212;
+  color: #ffffff;
+}
+h1 {
+  font-size: 3rem;      
+  margin-bottom: 20px;
+}
+.theme-text {
+  font-size: 1.8rem;   
+  margin-bottom: 30px;
+}
+.toggle-btn {
+  width: 220px;
+  height: 70px;
+  font-size: 1.6rem; 
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+}
