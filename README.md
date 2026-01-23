@@ -8,8 +8,7 @@ The experiments cover layout design, form handling, and responsive navigation.
 
 Goal: Introduction to Bootstrap's grid system and form utility classes.
 
-<img width="451" height="440" alt="image" src="https://github.com/user-attachments/assets/2f481c74-820c-4d95-90ee-8849fee03e16" />
-
+<img width="301" height="263" alt="image" src="https://github.com/user-attachments/assets/6c6c740d-94d3-4878-8194-b4e98a72bee7" />
 
 Key Features: Uses container, card, and form-control.
 
@@ -32,7 +31,8 @@ File: Exp-2.2.jsx
 Goal: Recreate a registration form using Material UI's component-based architecture.
 
 Key Features: AppBar, Card, TextField, and Button with the sx prop for custom styling.
-<img width="394" height="198" alt="image" src="https://github.com/user-attachments/assets/70010ff8-d8d2-4e05-b611-95b906237950" />
+
+<img width="451" height="440" alt="image" src="https://github.com/user-attachments/assets/2f481c74-820c-4d95-90ee-8849fee03e16" />
 
 
 File: exp-2.3.jsx
@@ -49,9 +49,10 @@ Goal: Build a mobile-responsive navigation bar .
 Key Features: Drawer, IconButton, and conditional display (xs: "none", sm: "block") for responsive behavior.
 
 File: exp-2.4.jsx
+
 🛠️ Tech Stack
-React - UI Library
+1. React - UI Library
 
-Bootstrap 5 - CSS Framework
+2. Bootstrap 5 - CSS Framework
 
-Material UI (v5) - Component Library
+3. Material UI (v5) - Component Library
