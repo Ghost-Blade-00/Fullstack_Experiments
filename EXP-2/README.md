@@ -30,10 +30,10 @@ File: Exp-2.2.jsx
 
 Goal: Recreate a registration form using Material UI's component-based architecture.
 
+<img width="451" height="403" alt="ss" src="https://github.com/user-attachments/assets/e904a908-1eeb-4f1c-8e97-9f5158a203b4" />
+
+
 Key Features: AppBar, Card, TextField, and Button with the sx prop for custom styling.
-
-<img width="451" height="440" alt="image" src="https://github.com/user-attachments/assets/2f481c74-820c-4d95-90ee-8849fee03e16" />
-
 
 File: exp-2.3.jsx
 
