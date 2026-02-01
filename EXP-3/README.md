@@ -1,16 +1,80 @@
-# React + Vite
+# Experiment 3 — React Routing and Navigation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Aim
+To implement client-side routing in React using **React Router DOM** and build a multi-page application with navigation between components.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## Tools Used
+- React.js  
+- React Router DOM  
+- JavaScript  
+- HTML & CSS  
+- Vite  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Experiment 3.1 — Basic Routing (Home & About)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Aim
+To create basic routing between **Home** and **About** pages using `BrowserRouter`, `Routes`, and `Route`.
+
+### What I Used
+- BrowserRouter  
+- Routes  
+- Route  
+- Functional Components  
+
+### Screenshots
+**Home Page**  
+<img width="554" height="372" alt="image" src="https://github.com/user-attachments/assets/53f5d074-1ddd-4a4f-b147-45f6508cf7f3" />
+
+
+**About Page**  
+<img width="641" height="350" alt="image" src="https://github.com/user-attachments/assets/62b948fb-6942-4dc8-aedd-6ff55904ca85" />
+
+
+---
+
+## Experiment 3.2 — Profile Page with Header
+
+### Aim
+To create a profile page with a header and navigation using the `Link` component.
+
+### What I Used
+- Link component  
+- Header navigation  
+- CSS Flexbox  
+- Profile component  
+
+<img width="1900" height="864" alt="image" src="https://github.com/user-attachments/assets/d40d531b-3820-4f18-8f77-fc33adc0fecd" />
+
+
+
+## Experiment 3.3 — Dashboard Routing
+
+### Aim
+To add a dashboard page and enable navigation between the profile and dashboard pages.
+
+### What I Used
+- Multiple routes  
+- Navigation buttons  
+- Dashboard component  
+- React Router navigation
+
+**Profile Page**
+<img width="513" height="573" alt="image" src="https://github.com/user-attachments/assets/b2cda5e8-0e2c-45de-a136-b6a726c323c4" />
+
+
+**Dashboard Page**    
+<img width="1078" height="890" alt="image" src="https://github.com/user-attachments/assets/37f75278-a5e1-4b8d-85a7-18fe0e289203" />
+
+
+---
+
+## Learning Outcome
+- Understood client-side routing in React  
+- Learned to use React Router DOM effectively  
+- Gained experience in building multi-page SPAs  
+- Improved understanding of component-based design  
+
+
