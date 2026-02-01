@@ -19,7 +19,7 @@ To implement client-side routing in React using **React Router DOM** and build a
 ### Aim
 To create basic routing between **Home** and **About** pages using `BrowserRouter`, `Routes`, and `Route`.
 
-### What I Used
+### Implementation Details
 - BrowserRouter  
 - Routes  
 - Route  
@@ -40,7 +40,7 @@ To create basic routing between **Home** and **About** pages using `BrowserRoute
 ### Aim
 To create a profile page with a header and navigation using the `Link` component.
 
-### What I Used
+### Implementation Details
 - Link component  
 - Header navigation  
 - CSS Flexbox  
@@ -56,7 +56,7 @@ To create a profile page with a header and navigation using the `Link` component
 ### Aim
 To add a dashboard page and enable navigation between the profile and dashboard pages.
 
-### What I Used
+### Implementation Details
 - Multiple routes  
 - Navigation buttons  
 - Dashboard component  
@@ -65,6 +65,7 @@ To add a dashboard page and enable navigation between the profile and dashboard 
 **Profile Page**
 
 <img width="513" height="573" alt="image" src="https://github.com/user-attachments/assets/b2cda5e8-0e2c-45de-a136-b6a726c323c4" />
+
 ---
 
 **Dashboard Page**    
