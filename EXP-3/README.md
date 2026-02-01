@@ -62,6 +62,7 @@ To add a dashboard page and enable navigation between the profile and dashboard 
 - React Router navigation
 
 **Profile Page**
+
 <img width="513" height="573" alt="image" src="https://github.com/user-attachments/assets/b2cda5e8-0e2c-45de-a136-b6a726c323c4" />
 
 
