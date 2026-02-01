@@ -10,8 +10,9 @@ To implement client-side routing in React using **React Router DOM** and build a
 - React Router DOM  
 - JavaScript  
 - HTML & CSS  
-- Vite  
-
+- Vite
+  
+---
 
 ## Experiment 3.1 — Basic Routing (Home & About)
 
@@ -32,7 +33,6 @@ To create basic routing between **Home** and **About** pages using `BrowserRoute
 **About Page**  
 <img width="641" height="350" alt="image" src="https://github.com/user-attachments/assets/62b948fb-6942-4dc8-aedd-6ff55904ca85" />
 
-
 ---
 
 ## Experiment 3.2 — Profile Page with Header
@@ -48,6 +48,7 @@ To create a profile page with a header and navigation using the `Link` component
 
 <img width="1900" height="864" alt="image" src="https://github.com/user-attachments/assets/d40d531b-3820-4f18-8f77-fc33adc0fecd" />
 
+---
 
 
 ## Experiment 3.3 — Dashboard Routing
@@ -64,7 +65,7 @@ To add a dashboard page and enable navigation between the profile and dashboard 
 **Profile Page**
 
 <img width="513" height="573" alt="image" src="https://github.com/user-attachments/assets/b2cda5e8-0e2c-45de-a136-b6a726c323c4" />
-
+---
 
 **Dashboard Page**    
 <img width="1078" height="890" alt="image" src="https://github.com/user-attachments/assets/37f75278-a5e1-4b8d-85a7-18fe0e289203" />
