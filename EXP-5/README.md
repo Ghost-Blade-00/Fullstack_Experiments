@@ -13,9 +13,12 @@ Implements component-level lazy loading using `React.lazy()` and `Suspense` to i
 - About.jsx
 - Contact.jsx
 
+---
+
  ## Screenshot
 
 <img width="505" height="380" alt="image" src="https://github.com/user-attachments/assets/5f76395c-9f06-4238-aa5d-5709d289841b" />
+
 
 <img width="537" height="375" alt="image" src="https://github.com/user-attachments/assets/09f08065-7954-4afc-a46f-d64dc0cd9b73" />
 
