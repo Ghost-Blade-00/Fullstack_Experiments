@@ -61,12 +61,14 @@ Implements route-based lazy loading using React Router DOM along with `React.laz
 
 ## Screenshot
 
-<img width="1919" height="790" alt="image" src="https://github.com/user-attachments/assets/2864f5e4-f551-4b05-848b-5b83abf7ed9f" />
+<img width="1916" height="727" alt="image" src="https://github.com/user-attachments/assets/cb654a9b-ff0e-4dd8-b3a4-52c3309f0961" />
+
 
 <img width="1918" height="417" alt="image" src="https://github.com/user-attachments/assets/3dcb4675-6cce-4fa2-906c-7338256ed6ca" />
 
 
-<img width="1919" height="567" alt="image" src="https://github.com/user-attachments/assets/e6593b59-33eb-4029-91d0-d78b263e8770" />
+<<img width="1919" height="686" alt="image" src="https://github.com/user-attachments/assets/9385957f-652d-4c99-ac59-fa8a92fc46e8" />
+
 
 
 
