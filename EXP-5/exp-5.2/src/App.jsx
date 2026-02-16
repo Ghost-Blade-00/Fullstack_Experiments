@@ -1,39 +1,46 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import React, { Suspense, lazy } from "react";
-import "./exp-5.css";
+import "./Dashboard.css";
 import profilePic from "./assets/wallpaper.jpeg";
 
-const Dashboard = lazy(() => import("./Dashboard"));
+const Contact = lazy(() => import("./Contact"));
 
 function Navbar() {
   return (
     <div className="navbar">
       <h2 className="app-name">MyApp</h2>
       <div>
-        <Link to="/">Profile</Link> |{" "}
-        <Link to="/dashboard">Dashboard</Link>
+        <Link to="/">About</Link> |{" "}
+        <Link to="/contact">Contact</Link>
       </div>
     </div>
   );
 }
 
-function Profile() {
+function About() {
   return (
     <div className="container">
       <div className="card">
-        <h1>Profile Page</h1>
+        <h1>About Page</h1>
 
-        <img src={profilePic} className="profile-img" alt="Profile" />
+        <img
+          src={profilePic}
+          alt="Profile"
+          className="profile-img"
+        />
 
-        <h2>Projects</h2>
+        <h2>About Me</h2>
+        <p>
+          I am a full-stack developer passionate about building scalable
+          and efficient web applications.
+        </p>
+
+        <h2>Skills</h2>
         <ol className="list">
-          <li>Fake News Chatbot</li>
-          <li>Real-time Chat Application</li>
-        </ol>
-
-        <h2>Achievements</h2>
-        <ol className="list">
-          <li>Cosmic Hackathon Winner</li>
+          <li>Java</li>
+          <li>Python</li>
+          <li>SQL</li>
+          <li>MERN Stack</li>
         </ol>
       </div>
     </div>
@@ -50,14 +57,14 @@ function App() {
           <div className="center-wrapper">
             <div className="card loading-card">
               <h1>Loading...</h1>
-              <p>Please wait while the content loads.</p>
+              <p>Contact page is loading</p>
             </div>
           </div>
         }
       >
         <Routes>
-          <Route path="/" element={<Profile />} />
-          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </Suspense>
     </BrowserRouter>
