@@ -10,8 +10,8 @@ Implements component-level lazy loading using `React.lazy()` and `Suspense` to i
 ## Components Used
 - App.jsx
 - Home.jsx
-- About.jsx
-- Contact.jsx
+- Dashboard.jsx
+- Profile.jsx
 
 ---
 
@@ -39,8 +39,7 @@ Implements route-based lazy loading using React Router DOM along with `React.laz
 ## Components Used
 - AppRoutes.jsx
 - Home.jsx
-- About.jsx
-- Contact.jsx
+- Profile.jsx
 - Dashboard.jsx
 
 ## Key Features
