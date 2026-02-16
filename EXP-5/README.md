@@ -17,7 +17,7 @@ Implements component-level lazy loading using `React.lazy()` and `Suspense` to i
 
  ## Screenshot
 
-![Uploading image.png…]()
+<img width="449" height="731" alt="image" src="https://github.com/user-attachments/assets/59bb6e51-08e2-471e-9873-14d0580127d9" />
 
 
 
