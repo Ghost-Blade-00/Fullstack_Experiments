@@ -1,16 +1,68 @@
-# React + Vite
+🔷 Experiment 4.1 – React Context API
+🎯 Aim
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To implement global state management using React Context API.
 
-Currently, two official plugins are available:
+🛠 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚛️ React
 
-## React Compiler
+🌐 Context API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 CSS
 
-## Expanding the ESLint configuration
+✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔ Global user data
+✔ Light / Dark theme toggle
+✔ Shared state across multiple components
+✔ No prop drilling
+✔ Smooth theme transition
+
+🖼 Screenshots
+🌞 Light Theme
+<div align="center">
+[ Insert Light Theme Screenshot Here ]
+
+</div>
+🌙 Dark Theme
+<div align="center">
+[ Insert Dark Theme Screenshot Here ]
+
+</div>
+🔷 Experiment 4.2 – Redux (Counter Application)
+🎯 Aim
+
+To implement centralized state management using Redux Toolkit.
+
+🛠 Tech Stack
+
+⚛️ React
+
+🗂 Redux Toolkit
+
+🔄 React-Redux
+
+🎨 CSS
+
+✨ Key Features
+
+✔ Centralized Redux store
+✔ Increment counter
+✔ Decrement counter
+✔ Reset counter
+✔ Modern card-based UI
+✔ Clean and responsive layout
+
+🖼 Screenshots
+🔢 Initial State
+<div align="center">
+[ Insert Initial State Screenshot Here ]
+
+</div>
+➕ After Increment
+<div align="center">
+[ Insert Increment Screenshot Here ]
+
+</div>
+➖ After Decrement
