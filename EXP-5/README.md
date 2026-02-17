@@ -38,9 +38,8 @@ Implements route-based lazy loading using React Router DOM along with `React.laz
 
 ## Components Used
 - AppRoutes.jsx
-- Home.jsx
-- Profile.jsx
-- Dashboard.jsx
+- About.jsx
+- Contact.jsx
 
 ## Key Features
 - Route-based code splitting
