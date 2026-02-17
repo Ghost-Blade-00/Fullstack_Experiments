@@ -2,7 +2,7 @@
 
 ---
 
-#EXP-4.1 – Global State Management Using React Context API
+# EXP-4.1 – Global State Management Using React Context API
 
 ## Aim
 
