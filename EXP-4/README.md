@@ -52,7 +52,8 @@ Screenshots
 
 Initial State
 
-<img width="638" height="504" alt="image" src="https://github.com/user-attachments/assets/f0000bd1-066e-4c7d-a64b-8acc67168ad8" />
+<img width="483" height="413" alt="image" src="https://github.com/user-attachments/assets/37f21ae9-a56c-4fe4-b8fc-a2a2ad757c2a" />
+
 
 
 Updated State
