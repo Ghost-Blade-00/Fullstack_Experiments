@@ -1,68 +1,60 @@
-🔷 Experiment 4.1 – React Context API
-🎯 Aim
+Experiment 4 – State Management (React Context API & Redux)
+Experiment 4.1: React Context API
+Aim
 
-To implement global state management using React Context API.
+To implement global state management using Context API.
 
-🛠 Tech Stack
+Technologies
 
-⚛️ React
+React
 
-🌐 Context API
+Context API
 
-🎨 CSS
+CSS
 
-✨ Key Features
+Features
 
-✔ Global user data
-✔ Light / Dark theme toggle
-✔ Shared state across multiple components
-✔ No prop drilling
-✔ Smooth theme transition
+Global user data
 
-🖼 Screenshots
-🌞 Light Theme
-<div align="center">
+Theme switching (Light / Dark)
+
+Screenshots
+
+Light Theme
+
 [ Insert Light Theme Screenshot Here ]
 
-</div>
-🌙 Dark Theme
-<div align="center">
+
+Dark Theme
+
 [ Insert Dark Theme Screenshot Here ]
 
-</div>
-🔷 Experiment 4.2 – Redux (Counter Application)
-🎯 Aim
+Experiment 4.2: Redux Counter
+Aim
 
-To implement centralized state management using Redux Toolkit.
+To implement centralized state management using Redux.
 
-🛠 Tech Stack
+Technologies
 
-⚛️ React
+React
 
-🗂 Redux Toolkit
+Redux Toolkit
 
-🔄 React-Redux
+CSS
 
-🎨 CSS
+Features
 
-✨ Key Features
+Increment / Decrement counter
 
-✔ Centralized Redux store
-✔ Increment counter
-✔ Decrement counter
-✔ Reset counter
-✔ Modern card-based UI
-✔ Clean and responsive layout
+Centralized state
 
-🖼 Screenshots
-🔢 Initial State
-<div align="center">
-[ Insert Initial State Screenshot Here ]
+Screenshots
 
-</div>
-➕ After Increment
-<div align="center">
-[ Insert Increment Screenshot Here ]
+Initial State
 
-</div>
-➖ After Decrement
+<img width="638" height="504" alt="image" src="https://github.com/user-attachments/assets/f0000bd1-066e-4c7d-a64b-8acc67168ad8" />
+
+
+Updated State
+
+<img width="514" height="419" alt="image" src="https://github.com/user-attachments/assets/cd9f4519-f2ff-439d-b140-a9ed8c46baff" />
