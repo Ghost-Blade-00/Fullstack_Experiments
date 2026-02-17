@@ -1,54 +1,89 @@
-Experiment 4 – State Management (React Context API & Redux)
-Experiment 4.1: React Context API
-Aim
+# Unit-4: Implement State Management Using React Context API & Redux
 
-To implement global state management using Context API.
+---
 
-Technologies
+#EXP-4.1 – Global State Management Using React Context API
 
-React
+## Aim
 
-Context API
+Implements global state management in a Single Page Application using React Context API.
 
-CSS
+## Components Used
 
-Features
+- App.jsx
 
-Global user data
+- GlobalContext.jsx
 
-Theme switching (Light / Dark)
+- Navbar.jsx
 
-Screenshots
+- Home.jsx
 
-Light Theme
+## Key Features
 
-[ Insert Light Theme Screenshot Here ]
+- Global user data
+
+- Theme switching (Light / Dark)
+
+- Shared state across components
+
+- Centralized Context Provider
+  
+## Screenshot
+Light Mode
+
+<img width="433" height="407" alt="image" src="https://github.com/user-attachments/assets/be1b3f21-f999-4348-b912-20bcd59e054a" />
 
 
-Dark Theme
+Dark Mode
 
-[ Insert Dark Theme Screenshot Here ]
+<img width="435" height="412" alt="image" src="https://github.com/user-attachments/assets/4aee83d0-f97a-44ff-8d96-ec38c92731aa" />
 
-Experiment 4.2: Redux Counter
-Aim
 
-To implement centralized state management using Redux.
+---
 
-Technologies
+# EXP-4.2 – Redux Counter Application
 
-React
+## Aim
 
-Redux Toolkit
+Implements centralized state management using Redux Toolkit for predictable and scalable state updates.
 
-CSS
+## Components Used
 
-Features
+- App.jsx
 
-Increment / Decrement counter
+- store.jsx
 
-Centralized state
+- CounterSlice.jsx
 
-Screenshots
+## Key Features
+
+- Centralized Redux store
+
+- Increment / Decrement counter
+
+- Reset functionality
+
+- Redux actions and reducers
+
+- Predictable state updates
+
+## Software Requirements
+
+- Node.js
+
+- React
+
+- Redux Toolkit
+
+- React-Redux
+
+- VS Code
+
+- Web Browser
+
+---
+
+## Screenshots
 
 Initial State
 
