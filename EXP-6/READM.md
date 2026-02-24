@@ -14,7 +14,7 @@ Implements a fully controlled User Registration Form using React Hooks. The form
 - App.css
 
 ## Screenshot
-Form 
+
 <img width="667" height="758" alt="image" src="https://github.com/user-attachments/assets/d2d8c22b-e200-45c4-9b72-f1faf7d06eb8" />
 ---
 <img width="601" height="798" alt="image" src="https://github.com/user-attachments/assets/bda789fd-9a67-4cb4-893b-ea99a866d1f9" />
