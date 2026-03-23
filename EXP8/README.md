@@ -1,4 +1,4 @@
-# EXP8 - Student Management REST API (Spring Boot)
+# EXP-8: Student Management REST API (Spring Boot)
 
 This experiment includes a Spring Boot backend application developed to manage student data with complete CRUD functionality. The project uses Spring Data JPA for database interaction and MySQL as the backend database..
 
@@ -56,7 +56,11 @@ The app runs on:
 
 `http://localhost:8080`
 
-## Screenshots
+## 
+
+
+<img width="1513" height="359" alt="image" src="https://github.com/user-attachments/assets/d49f8e98-5e9d-4183-8744-0a278a252de6" />
+
 
 GET
 <img width="1392" height="727" alt="image" src="https://github.com/user-attachments/assets/f938f487-3caf-4eed-bf0b-b1ef22b45462" />
