@@ -1,27 +1,22 @@
 # EXP8 - Student Management REST API (Spring Boot)
 
-This experiment contains a Spring Boot backend project for managing student records with full CRUD operations using MySQL and Spring Data JPA.
-
-## Project Location
-
-The runnable project is inside the `try` folder.
+This experiment includes a Spring Boot backend application developed to manage student data with complete CRUD functionality. The project uses Spring Data JPA for database interaction and MySQL as the backend database..
 
 ## Tech Stack
 
-- Java 21
+- Java 17
 - Spring Boot 4
 - Spring Web MVC
 - Spring Data JPA
 - MySQL
 - Maven Wrapper (`mvnw` / `mvnw.cmd`)
 
-## Features
-
-- Create a student
-- Read all students
-- Read student by ID
-- Update student details
-- Delete a student
+##Main Functionalities
+- Add a new student record
+- View all student records
+- Fetch a student by ID
+- Modify existing student details
+- Remove a student record
 
 ## API Base URL
 
@@ -29,11 +24,11 @@ The runnable project is inside the `try` folder.
 
 ## Endpoints
 
-- `GET /api/students` - Get all students
-- `GET /api/students/{id}` - Get one student by ID
-- `POST /api/students` - Create a new student
-- `PUT /api/students/{id}` - Update an existing student
-- `DELETE /api/students/{id}` - Delete a student
+- GET /api/students → Retrieve all students
+- GET /api/students/{id} → Retrieve a specific student using ID
+- POST /api/students → Insert a new student record
+- PUT /api/students/{id} → Edit student information
+- DELETE /api/students/{id} → Delete a student record
 
 ## Database Setup (MySQL)
 
@@ -63,10 +58,7 @@ The app runs on:
 
 ## Screenshots
 
-### Screenshot 1 (image)
+<img width="1882" height="989" alt="image" src="https://github.com/user-attachments/assets/323b7b53-d17a-48fb-8f5d-dfdd1b61bf10" />
 
-![Screenshot 1](./try/image.png)
 
-### Screenshot 2 (image2)
 
-![Screenshot 2](./try/image2.png)
