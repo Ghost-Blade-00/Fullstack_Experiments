@@ -76,6 +76,10 @@ PUT
 <img width="1391" height="714" alt="image" src="https://github.com/user-attachments/assets/99edc6b5-fd5d-49bc-9630-1ff876545cc1" />
 
 
+DELETE
+<img width="1386" height="613" alt="image" src="https://github.com/user-attachments/assets/f9f3dedc-cd96-442d-8cea-90662356641d" />
+
+
 
 
 
