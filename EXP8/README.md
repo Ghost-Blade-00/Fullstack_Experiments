@@ -58,7 +58,20 @@ The app runs on:
 
 ## Screenshots
 
-<img width="1882" height="989" alt="image" src="https://github.com/user-attachments/assets/323b7b53-d17a-48fb-8f5d-dfdd1b61bf10" />
+GET
+- <img width="1392" height="727" alt="image" src="https://github.com/user-attachments/assets/f938f487-3caf-4eed-bf0b-b1ef22b45462" />
+
+POST
+- <img width="1395" height="706" alt="image" src="https://github.com/user-attachments/assets/110d2177-5763-49c9-8baf-97b0e64c9c00" />
+
+PUT
+- <img width="1391" height="714" alt="image" src="https://github.com/user-attachments/assets/99edc6b5-fd5d-49bc-9630-1ff876545cc1" />
+
+
+
+
+
+
 
 
 
