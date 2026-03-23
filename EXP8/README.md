@@ -56,7 +56,7 @@ The app runs on:
 
 `http://localhost:8080`
 
-## 
+## Screenshot
 
 
 <img width="1513" height="359" alt="image" src="https://github.com/user-attachments/assets/d49f8e98-5e9d-4183-8744-0a278a252de6" />
