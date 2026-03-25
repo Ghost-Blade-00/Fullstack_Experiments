@@ -11,7 +11,7 @@ This experiment includes a Spring Boot backend application developed to manage s
 - MySQL
 - Maven Wrapper (`mvnw` / `mvnw.cmd`)
 
-##Main Functionalities
+## Main Functionalities
 - Add a new student record
 - View all student records
 - Fetch a student by ID
