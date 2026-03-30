@@ -115,7 +115,7 @@ This token is used for authentication in further requests
 ### 📍 Endpoint
 
 ```
-GET http://localhost:8080/api/hello
+GET http://localhost:8080/api/success
 ```
 
 ### 📌 Headers
