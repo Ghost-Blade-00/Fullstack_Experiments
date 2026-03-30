@@ -75,6 +75,8 @@ http://localhost:8080
 INSERT INTO users (username, password)
 VALUES ('Aditya', 'Aditya@2006');
 ```
+<img width="807" height="239" alt="image" src="https://github.com/user-attachments/assets/09c97743-e5eb-4095-b422-e13fe9ed2c4f" />
+
 
 ✔ This data is used for authentication
 
@@ -95,10 +97,16 @@ username=Aditya
 password=Aditya@2006
 ```
 
+
+<img width="1395" height="304" alt="image" src="https://github.com/user-attachments/assets/99403043-5b83-43c4-aea4-4e35b0ead8a6" />
+
+
 ### ✅ Response
 
 
-👉 This token is used for authentication in further requests
+This token is used for authentication in further requests
+<img width="1395" height="637" alt="image" src="https://github.com/user-attachments/assets/dde942e6-a827-45e6-9ea7-18969a4d5a02" />
+
 
 ---
 
@@ -115,12 +123,13 @@ GET http://localhost:8080/api/hello
 ```
 Authorization: Bearer <JWT_TOKEN>
 ```
+<img width="1386" height="672" alt="image" src="https://github.com/user-attachments/assets/f4efe359-20ce-4749-97ba-86543b488b1b" />
+
 
 ### ✅ Response
 
-```
-Hello! JWT Authentication Successful
-```
+<img width="1395" height="637" alt="image" src="https://github.com/user-attachments/assets/579f7d83-1c9c-4ecb-acf2-b61766c12054" />
+
 
 ---
 
@@ -140,30 +149,6 @@ Hello! JWT Authentication Successful
 * **JWT Token** → Secure communication without session
 * **Stateless API** → No server-side session storage
 
----
-
-## ⚠️ Important Notes
-
-* Database credentials and application login credentials are different
-* JWT tokens have expiration time
-* Token must be sent in every secured request
-* API is stateless (no session is stored)
-
----
-
-## 🎤 Viva Explanation (Short)
-
-> This project implements JWT-based authentication where a user logs in using credentials, receives a token, and uses that token to access secured APIs. The system is stateless and ensures secure communication between client and server.
-
----
-
-## 🚀 Future Improvements
-
-* Add password encryption using BCrypt
-* Implement JWT validation filter
-* Add role-based authorization
-* Add frontend (React / Angular)
-* Use refresh tokens
 
 ---
 
