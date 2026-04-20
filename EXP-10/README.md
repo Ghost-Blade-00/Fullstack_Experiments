@@ -38,11 +38,10 @@ EXP-10/
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+### 1️⃣ Create the Project Folder 
 
 ```bash
-git clone https://github.com/Ghost-Blade-00/Fullstack_Experiments.git
-cd Fullstack_Experiments/EXP-10/websocket
+ npm create vite@latest websocket
 ```
 
 ### 2️⃣ Install dependencies
